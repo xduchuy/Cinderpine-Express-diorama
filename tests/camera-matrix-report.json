@@ -1,0 +1,12 @@
+{
+  "shots": [
+    "desktop-follow-night",
+    "desktop-chase-night",
+    "phone-follow-day",
+    "phone-chase-day",
+    "phone-first-person-day",
+    "phone-follow-night",
+    "phone-chase-night"
+  ],
+  "errors": []
+}

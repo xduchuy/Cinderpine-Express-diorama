@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Old Pinewood",
+    "closureErrorM": 2.7452933603994753e-8,
+    "spacingM": 0.49994480137709674,
+    "maxG": 4.182293531883337,
+    "minMovingSpeed": 2.2020713438559487,
+    "lateralG": 2.942487119291954e-16,
+    "lapsCompleted": 8,
+    "states": [
+      "dispatch",
+      "ride",
+      "lift",
+      "drop",
+      "brake",
+      "arrive",
+      "unload",
+      "board"
+    ],
+    "events": {
+      "dispatch": 9,
+      "state": 102,
+      "chain": 9,
+      "scream": 9,
+      "airtime": 9,
+      "brake": 8,
+      "arrive": 8
+    }
+  },
+  {
+    "name": "Cinderloop",
+    "closureErrorM": 5.761623971920105e-9,
+    "spacingM": 0.49982946168567643,
+    "maxG": 4.176550983231362,
+    "minMovingSpeed": 2.2806693998175316,
+    "lateralG": 1.810761304179664e-16,
+    "lapsCompleted": 11,
+    "states": [
+      "dispatch",
+      "ride",
+      "lift",
+      "drop",
+      "brake",
+      "arrive",
+      "unload",
+      "board"
+    ],
+    "events": {
+      "dispatch": 12,
+      "state": 101,
+      "chain": 12,
+      "scream": 11,
+      "airtime": 11,
+      "loop": 11,
+      "brake": 11,
+      "arrive": 11
+    }
+  },
+  {
+    "name": "Ember Mine Run",
+    "closureErrorM": 1.2617249932185857e-8,
+    "spacingM": 0.4995199711455474,
+    "maxG": 4.217035028825324,
+    "minMovingSpeed": 3.2612589463638977,
+    "lateralG": 2.716141956269496e-16,
+    "lapsCompleted": 14,
+    "states": [
+      "dispatch",
+      "ride",
+      "lift",
+      "drop",
+      "brake",
+      "arrive",
+      "unload",
+      "board"
+    ],
+    "events": {
+      "dispatch": 14,
+      "state": 153,
+      "chain": 14,
+      "scream": 28,
+      "airtime": 56,
+      "brake": 14,
+      "arrive": 14
+    }
+  }
+]

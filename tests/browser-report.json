@@ -1,0 +1,77 @@
+{
+  "screenshots": [
+    "desktop-day",
+    "desktop-follow",
+    "desktop-chase",
+    "desktop-first-person",
+    "desktop-night",
+    "desktop-first-person-night",
+    "desktop-dusk",
+    "phone-day",
+    "phone-expanded",
+    "phone-first-person-night",
+    "phone-night"
+  ],
+  "validation": [
+    {
+      "name": "Old Pinewood",
+      "maxSpeed": 14.283936730670566,
+      "maxHeight": 21.00001949380759,
+      "maxG": 4.182293531883334,
+      "minG": 0.07302188214706486,
+      "duration": 41.08474818930201,
+      "closureError": 2.7452933603994753e-8,
+      "excitement": 6.259752311922335,
+      "intensity": 6.273440297825001,
+      "nausea": 2.7,
+      "minSpeed": 2.2019586999524137,
+      "samples": 480,
+      "finite": true,
+      "withinZone": true
+    },
+    {
+      "name": "Cinderloop",
+      "maxSpeed": 16.287050167731355,
+      "maxHeight": 19.000031716345987,
+      "maxG": 4.176550983231372,
+      "minG": 0.35768574345564297,
+      "duration": 25.80929753672799,
+      "closureError": 5.761623971920105e-9,
+      "excitement": 6.420188926463149,
+      "intensity": 7.264826474847057,
+      "nausea": 4.2,
+      "minSpeed": 2.280596871960073,
+      "samples": 290,
+      "finite": true,
+      "withinZone": true
+    },
+    {
+      "name": "Ember Mine Run",
+      "maxSpeed": 9.597327659518701,
+      "maxHeight": 6.499810514095067,
+      "maxG": 4.217035028825324,
+      "minG": -0.7474082171526268,
+      "duration": 18.289800597670784,
+      "closureError": 1.2617249932185857e-8,
+      "excitement": 4.733614503178322,
+      "intensity": 6.325552543237986,
+      "nausea": 1.4,
+      "minSpeed": 3.3,
+      "samples": 232,
+      "finite": true,
+      "withinZone": true
+    }
+  ],
+  "phone": {
+    "camera": 0,
+    "day": "night",
+    "selected": 0,
+    "pixelSize": 2,
+    "timeScale": 4,
+    "fps": 7.763149624991826,
+    "frames": 226,
+    "drawCalls": 129
+  },
+  "errors": [],
+  "warnings": []
+}
