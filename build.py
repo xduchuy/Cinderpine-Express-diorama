@@ -9,6 +9,7 @@ for name,file in [('Bevan',p/'assets/bevan.ttf'),('Hanken Grotesk',p/'assets/han
 html=html.replace('/*__FONTS__*/',fontcss)
 for key,file in [('CORE','core.js'),('PARK','park.js'),('RAIL','rail.js'),('AUDIO','audio.js'),('APP','app.js')]:
     html=html.replace('/*__'+key+'__*/',(p/'src'/file).read_text())
+(p/'index.html').write_text(html)
 (p/'dist/index.html').write_text(html)
 (p/'dist/cinderpine-express.html').write_text(html)
 print(f'Built {len(html):,} bytes; all scripts, fonts, and generated art inline, except three.js r128 CDN.')
